@@ -1,0 +1,2 @@
+Prefix plugins/Parseval/example/
+Plugin Parseval inputfile tdata.txt outputfile none
